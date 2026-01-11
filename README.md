@@ -1,0 +1,1 @@
+Built a Linear Regression model to predict car prices using vehicle specifications. Performed data preprocessing, EDA, and model evaluation using R², MAE, and MSE, establishing a reliable baseline regression approach.
